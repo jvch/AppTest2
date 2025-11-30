@@ -25,9 +25,10 @@ button {
 }
 
 button:hover {
-    background-color: #154318;
+    background-color: #990000;
 }
 
 img {
     border-radius: 20px;
+
 }
